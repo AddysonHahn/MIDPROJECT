@@ -1,0 +1,12 @@
+.tweet{
+  border-radius:10px;
+  border:"2px solid green";
+  background-color: yellow;
+  margin:8px;
+  color: orange;
+  box-sizing:border-box;
+  padding:20px;
+}
+img{
+  width:200px;
+}
